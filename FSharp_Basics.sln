@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp_Basics", "FSharp_Basics\FSharp_Basics.fsproj", "{48F8E20B-0AC4-4D73-81FA-92E721587728}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BasicLib", "BasicLib\BasicLib.fsproj", "{A07852AC-D7B3-4086-A19E-87A1484301EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{48F8E20B-0AC4-4D73-81FA-92E721587728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48F8E20B-0AC4-4D73-81FA-92E721587728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48F8E20B-0AC4-4D73-81FA-92E721587728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07852AC-D7B3-4086-A19E-87A1484301EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07852AC-D7B3-4086-A19E-87A1484301EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07852AC-D7B3-4086-A19E-87A1484301EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07852AC-D7B3-4086-A19E-87A1484301EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
